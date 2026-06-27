@@ -1,0 +1,382 @@
+{
+  "id": "sun-moissanist",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@moissanist Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_b413e98bbbe5",
+    "display_name": "moissanist",
+    "user_id": "@moissanist",
+    "description": "Community Archive-derived proof-of-search sun for @moissanist.",
+    "document_count": 2905,
+    "word_count": 67771,
+    "active_days": 380,
+    "emissions": [
+      "Nosilverv",
+      "Lot",
+      "Don",
+      "Think",
+      "Most",
+      "Too"
+    ],
+    "generated_at": "2026-06-27T16:41:37.042757+00:00",
+    "color": "#f59e0b",
+    "mass": 11.124
+  },
+  "planets": [
+    {
+      "id": "planet_99280ea06fcc",
+      "name": "Nosilverv",
+      "summary": "Archive cluster around nosilverv: 2418 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nosilverv",
+        "good",
+        "only",
+        "time",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_116061be996b",
+          "title": "Nosilverv receipt from 2023-10-14",
+          "excerpt": "@8teAPi imagine a culture where everybody ritually hits themselves on the head each morning. then somebody comes up with a shirt that doesn't let you move your arm above your shoulders. suddenly everybody's headaches and swellings go away. that's what this drug is \"a miracle\"",
+          "source_document_id": "1713218849858899983",
+          "timestamp": "2023-10-14T15:42:58+00:00",
+          "url": "https://x.com/moissanist/status/1713218849858899983",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, good, only, time."
+        },
+        {
+          "id": "art_b1c473fbb30e",
+          "title": "Nosilverv receipt from 2023-10-19",
+          "excerpt": "@nosilverv Truest shit I've ever read.\n\nIn 2017, out of nowhere, I developed severe food allergies. This is the intellectual topic I've thought/about researched most since then, talking, experimenting, binging Attia podcasts.\n\nFrom what I can tell ~all common dietary advice is true at the…",
+          "source_document_id": "1715117226389348456",
+          "timestamp": "2023-10-19T21:26:26+00:00",
+          "url": "https://x.com/moissanist/status/1715117226389348456",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, good, only, time."
+        },
+        {
+          "id": "art_522c8f520f9f",
+          "title": "Nosilverv receipt from 2024-05-11",
+          "excerpt": "@TylerAlterman to answer that question we first have to go back to the founding of st. petersburg",
+          "source_document_id": "1789405965890035817",
+          "timestamp": "2024-05-11T21:23:22+00:00",
+          "url": "https://x.com/moissanist/status/1789405965890035817",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, good, only, time."
+        },
+        {
+          "id": "art_04aadcca516b",
+          "title": "Nosilverv receipt from 2024-07-21",
+          "excerpt": "@qephatziel https://t.co/XKJ631CKNj",
+          "source_document_id": "1815167988862972162",
+          "timestamp": "2024-07-21T23:32:27+00:00",
+          "url": "https://x.com/moissanist/status/1815167988862972162",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, good, only, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_435111d28601",
+      "proof_score": 1,
+      "mass": 32.016,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_acda1da3415e",
+      "name": "Lot",
+      "summary": "Archive cluster around lot: 134 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "lot",
+        "think",
+        "don",
+        "which",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_23fd94330bcb",
+          "title": "Lot receipt from 2023-12-17",
+          "excerpt": "@yashkaf @slatestarcodex i hard disagree with this. he mostly focuses on boring topics now. a lot of ai, not a lot of psychiatry + complex topics\n\nlike this article is one of my favourites, nobody else writes things like this and neither does he anymore\nhttps://t.co/OCKHtY3iV4",
+          "source_document_id": "1736467936385097880",
+          "timestamp": "2023-12-17T19:26:32+00:00",
+          "url": "https://x.com/moissanist/status/1736467936385097880",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, don, which."
+        },
+        {
+          "id": "art_2c26823a1fff",
+          "title": "Lot receipt from 2023-10-15",
+          "excerpt": "@thepanta82 @8teAPi a lot of these diseases are downstream from mitochondrial damage primarily caused by food intake and downstream feedback loops (stress/inflammation/dopamine disregulation) \n\nin theory you can break these with sheer willpower, but it's very hard",
+          "source_document_id": "1713368887356522858",
+          "timestamp": "2023-10-15T01:39:10+00:00",
+          "url": "https://x.com/moissanist/status/1713368887356522858",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, don, which."
+        },
+        {
+          "id": "art_d766352389fc",
+          "title": "Lot receipt from 2024-01-07",
+          "excerpt": "just realised sth deep: a lot of modern mental issues are \"dopamine disregulation\" (think akrasia, addiction, procrastination, adhd, certain kinds of depression) \n\ndopamine is zero sum meaning you have a fixed budget to spend it on things. if you waste it on e.g. getting rewarded… https://t.co/bFp2B51qTB",
+          "source_document_id": "1743986422070034476",
+          "timestamp": "2024-01-07T13:22:19+00:00",
+          "url": "https://x.com/moissanist/status/1743986422070034476",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, don, which."
+        },
+        {
+          "id": "art_600e3ebe0d7c",
+          "title": "Lot receipt from 2024-04-27",
+          "excerpt": "Huh, just realised sth deep I think:\n\nMnemonic bridges fuck with recall speed\n(and that's why I'm \"illiterate\").\n\nWhat happened: I was rehearsing Hiragana (Japanese alphabet) characters with Anki flashcards. I'd taken a year of Japanese in the past so I had a lot of the…",
+          "source_document_id": "1784278007152095237",
+          "timestamp": "2024-04-27T17:46:41+00:00",
+          "url": "https://x.com/moissanist/status/1784278007152095237",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: lot, think, don, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9fe8d559fea7",
+      "proof_score": 0.841,
+      "mass": 27.971,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_d9c1ac6d886f",
+      "name": "Don",
+      "summary": "Archive cluster around don: 116 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "think",
+        "really",
+        "want",
+        "world"
+      ],
+      "artifacts": [
+        {
+          "id": "art_cc23f4b5bf04",
+          "title": "Don receipt from 2024-01-14",
+          "excerpt": "you'd think this collection of rays is a bad way to communicate data\nyou're missing the point, nothing screams \"i'm an expert\" more than \"look at all these mystical symbols you muggles don't understand\" - inscrutability is a feature here https://t.co/hRFiDSMOba https://t.co/0YvMP1smLI",
+          "source_document_id": "1746675110335992169",
+          "timestamp": "2024-01-14T23:26:12+00:00",
+          "url": "https://x.com/moissanist/status/1746675110335992169",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, really, want."
+        },
+        {
+          "id": "art_42921f400cb9",
+          "title": "Don receipt from 2023-12-16",
+          "excerpt": "@QiaochuYuan it's a vote of no-confidence in the people with the nuclear button. those have been escalating conflicts recently and I don't think zucc has much power over them unfortunately",
+          "source_document_id": "1736018020881825809",
+          "timestamp": "2023-12-16T13:38:44+00:00",
+          "url": "https://x.com/moissanist/status/1736018020881825809",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, really, want."
+        },
+        {
+          "id": "art_3d80b5405c4a",
+          "title": "Don receipt from 2024-08-03",
+          "excerpt": "the reason why architects don't build pretty things anymore isn't ideology or the markets. it's that they're so specialised that they see the poetry in concrete walls and literally develop a fetish for them",
+          "source_document_id": "1819825753212547460",
+          "timestamp": "2024-08-03T20:00:44+00:00",
+          "url": "https://x.com/moissanist/status/1819825753212547460",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, really, want."
+        },
+        {
+          "id": "art_cd6734447bd7",
+          "title": "Don receipt from 2023-08-29",
+          "excerpt": "@bungoman of course not, I don't read books",
+          "source_document_id": "1696374180378226836",
+          "timestamp": "2023-08-29T04:08:16+00:00",
+          "url": "https://x.com/moissanist/status/1696374180378226836",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, really, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c56afd0513da",
+      "proof_score": 0.826,
+      "mass": 25.468,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_ae3b559e1372",
+      "name": "Think",
+      "summary": "Archive cluster around think: 76 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "eye",
+        "too",
+        "left",
+        "while"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0d40aa0b657a",
+          "title": "Think receipt from 2023-11-20",
+          "excerpt": "@guillefix high ability to decouple + it's actually very \"level 0 rational\" if you think you're a completely autonomous seperate brain purely made out of ideas and sex is this biological urge that is now very different than when we had intuitions for it programmed because of birth control",
+          "source_document_id": "1726707598198788508",
+          "timestamp": "2023-11-20T21:02:26+00:00",
+          "url": "https://x.com/moissanist/status/1726707598198788508",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, eye, too, left."
+        },
+        {
+          "id": "art_693264d58b00",
+          "title": "Think receipt from 2023-08-25",
+          "excerpt": "why I think twitter is special and tpot had to happen here (1/8):",
+          "source_document_id": "1695148919867531434",
+          "timestamp": "2023-08-25T18:59:31+00:00",
+          "url": "https://x.com/moissanist/status/1695148919867531434",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, eye, too, left."
+        },
+        {
+          "id": "art_135958a173a8",
+          "title": "Think receipt from 2024-07-26",
+          "excerpt": "sometimes I think all of tpot, esp the \"postrationalism\" is just one big reaction to a strawman, taking literally an illusory system thats really just propaganda and all the top tier players already figured this out long ago",
+          "source_document_id": "1816640786231910450",
+          "timestamp": "2024-07-26T01:04:49+00:00",
+          "url": "https://x.com/moissanist/status/1816640786231910450",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, eye, too, left."
+        },
+        {
+          "id": "art_965683c89247",
+          "title": "Think receipt from 2023-09-07",
+          "excerpt": "i am not like the other boys, i think about the macedonian empire instead https://t.co/7xNPRHKYjR",
+          "source_document_id": "1699790533332517084",
+          "timestamp": "2023-09-07T14:23:38+00:00",
+          "url": "https://x.com/moissanist/status/1699790533332517084",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, eye, too, left."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f595360cf0a8",
+      "proof_score": 0.784,
+      "mass": 23.989,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_1424c5258d0f",
+      "name": "Most",
+      "summary": "Archive cluster around most: 83 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "most",
+        "yes",
+        "makes",
+        "time",
+        "many"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fa7b59859f04",
+          "title": "Most receipt from 2023-10-15",
+          "excerpt": "@thepanta82 @8teAPi it is a \"miracle drug\" because it intervenes at the most effective of these feedback loops. also deeply ironic because consumerist-capitalism is accidentally curing one of its most profitable undertakings",
+          "source_document_id": "1713369760031728119",
+          "timestamp": "2023-10-15T01:42:38+00:00",
+          "url": "https://x.com/moissanist/status/1713369760031728119",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: most, yes, makes, time."
+        },
+        {
+          "id": "art_4057a0b448ff",
+          "title": "Most receipt from 2024-06-12",
+          "excerpt": "oh shit. seems like the most tpot thing of all time, how have I not heared of this before https://t.co/dCanS3lqDH",
+          "source_document_id": "1801030403370684477",
+          "timestamp": "2024-06-12T23:14:44+00:00",
+          "url": "https://x.com/moissanist/status/1801030403370684477",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: most, yes, makes, time."
+        },
+        {
+          "id": "art_480a37b3dee5",
+          "title": "Most receipt from 2024-01-07",
+          "excerpt": "@QiaochuYuan no, it can def. do all of the bleow depending on dosage, cf\nhttps://t.co/2QQH81KI6L\n\nmost likely though it's the antidopaminergic effect here. tracks perfectly. he's just hyperstimulated like all of us, take an antidopaminerig for a day =&gt; a day of no dopamine resets the system https://t.co/eb4m2fhHGH",
+          "source_document_id": "1743949186834255940",
+          "timestamp": "2024-01-07T10:54:21+00:00",
+          "url": "https://x.com/moissanist/status/1743949186834255940",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: most, yes, makes, time."
+        },
+        {
+          "id": "art_0bd53756b4bb",
+          "title": "Most receipt from 2023-11-28",
+          "excerpt": "i suspect it's the multi-purpose nature that lies at the core of this particular horror\n\nit's the place where many of my best friends could have written exciting things, where I need to go to perform all my most powerfully creative feats, where all my most intense practice takes… https://t.co/JES7zZRzdY",
+          "source_document_id": "1729556666666909980",
+          "timestamp": "2023-11-28T17:43:37+00:00",
+          "url": "https://x.com/moissanist/status/1729556666666909980",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: most, yes, makes, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_11177ad41b77",
+      "proof_score": 0.793,
+      "mass": 24.079,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_1a247fc233e6",
+      "name": "Too",
+      "summary": "Archive cluster around too: 78 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "too",
+        "way",
+        "good",
+        "read",
+        "many"
+      ],
+      "artifacts": [
+        {
+          "id": "art_191a6ac1f40c",
+          "title": "Too receipt from 2024-05-27",
+          "excerpt": "@MrChecklistcard have you naughty boy been playing too much fab again",
+          "source_document_id": "1795208090511392982",
+          "timestamp": "2024-05-27T21:38:56+00:00",
+          "url": "https://x.com/moissanist/status/1795208090511392982",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, way, good, read."
+        },
+        {
+          "id": "art_d7c802cf7977",
+          "title": "Too receipt from 2024-08-01",
+          "excerpt": "some of the beggars here in portugal look way too attractive, tf is going on here",
+          "source_document_id": "1819075412108235244",
+          "timestamp": "2024-08-01T18:19:09+00:00",
+          "url": "https://x.com/moissanist/status/1819075412108235244",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, way, good, read."
+        },
+        {
+          "id": "art_01af95edae87",
+          "title": "Too receipt from 2023-12-02",
+          "excerpt": "@vansianism do not worry my friend, I have met too many powerful catgirls. the age of man will be over soon and the time of the cat begin",
+          "source_document_id": "1731069477410775050",
+          "timestamp": "2023-12-02T21:54:59+00:00",
+          "url": "https://x.com/moissanist/status/1731069477410775050",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, way, good, read."
+        },
+        {
+          "id": "art_8ec72790fc74",
+          "title": "Too receipt from 2024-06-09",
+          "excerpt": "one day I too wish to have a datable appearance https://t.co/efvSPX5jEt",
+          "source_document_id": "1799842791041986817",
+          "timestamp": "2024-06-09T16:35:35+00:00",
+          "url": "https://x.com/moissanist/status/1799842791041986817",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: too, way, good, read."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2e1ea1d2ab1c",
+      "proof_score": 0.787,
+      "mass": 23.536,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
